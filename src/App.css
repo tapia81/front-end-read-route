@@ -1,0 +1,13 @@
+.bookContainer {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	gap: 10vw;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+img {
+	min-width: 25vw;
+	min-height: 69vh;
+}
